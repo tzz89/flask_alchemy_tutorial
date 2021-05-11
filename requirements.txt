@@ -1,0 +1,9 @@
+#local packages
+-e .
+
+#external packages
+Flask
+Flask-SQLAlchemy
+Flask-RESTful
+Flask-WTF
+requests
