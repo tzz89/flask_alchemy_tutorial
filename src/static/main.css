@@ -1,0 +1,10 @@
+#sidebar-wrapper {
+    height: auto; /* Add height */
+    width: 100px;
+    margin-left: -15rem;
+
+  }
+  #sidebar-wrapper .list-group {
+    width: 15rem;
+  }
+
